@@ -1,9 +1,5 @@
-#include "stack.h"
-#include <sdio.h>
+#include <stdio.h>
 #include <stdlib.h>
-#include "path/tto/sack.h"
-
-
 /**
  * push - Function to push an element onto the stack
  * @top: Pointer to the top of the stack
